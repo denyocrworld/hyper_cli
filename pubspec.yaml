@@ -1,6 +1,6 @@
 name: hyper_cli
 description: Console program to generate views and controllers with the statefulWidget template.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/denyocrworld/hyper_cli
 
 environment:
