@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+### How to Use
+```
+hyper_cli create login
+hyper_cli create dashboard
+```
